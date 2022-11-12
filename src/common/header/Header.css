@@ -1,0 +1,29 @@
+.header-container{
+    background-color: purple;
+    height: 70px;
+    padding: 11px;    
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    font-family: 'Roboto';
+}
+.header-title-container{
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+
+}
+.header-logo{
+    margin: 0 10px; 
+    background-color: #ff7f7f;
+    height: 35px;
+}
+.header-title{
+    color: white;
+}
+
+.login-btn{
+    margin-right: 20px;
+    color: white;
+    justify-self: flex-end;
+}
