@@ -68,7 +68,7 @@ const RateAppointment = (props) => {
                 </div >
                     {formRatingError && 
                         <Typography color="error">
-                            Select a time slot
+                            Select a rating
                         </Typography>
                     }
                 <br />
